@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notion GitHub Issues Automation
-        uses: Sajantoor/Notion-GitHub-Issues-Automation@1.0.0
+        uses: Sajantoor/Notion-GitHub-Issues-Automation@v1.0.1
         with:
             # Your current repository.
             repo: ${{ github.repository }} 
