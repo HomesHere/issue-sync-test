@@ -107,6 +107,20 @@ GitHub Projects나 Notion에 커스텀 필드를 추가하는 방법입니다.
 
 ---
 
+### Step 9: 서버리스 Webhook 솔루션 (Organization 필수!)
+**[→ 09-serverless-webhook-solution.md](./09-serverless-webhook-solution.md)**
+
+Organization의 많은 레포를 1번 설정으로 실시간 동기화하는 방법입니다.
+- Cloudflare Workers 사용 (완전 무료!)
+- Organization Webhook 설정
+- 20줄 코드로 완성
+- 50개 레포도 1번만 설정
+
+**지연시간:** 15분 → 20초 (45배 개선!)  
+**관리:** 서버 관리 불필요 (서버리스)
+
+---
+
 ## 📋 전체 진행 체크리스트
 
 ### Prerequisites (사전 준비)
