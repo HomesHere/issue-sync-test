@@ -94,6 +94,19 @@ GitHub Projects나 Notion에 커스텀 필드를 추가하는 방법입니다.
 
 ---
 
+### Step 8: 실시간 동기화 방안 (향후 발전)
+**[→ 08-realtime-sync-options.md](./08-realtime-sync-options.md)**
+
+15분 스케줄을 넘어 실시간 동기화를 구현하는 방법들을 분석합니다.
+- 5가지 옵션 비교 (Repository Dispatch, Org Webhook, GitHub App 등)
+- 비용/성능/난이도 분석
+- 단계별 구현 로드맵
+- 즉시 구현 가능한 방법 (30분 소요)
+
+**지연시간:** 15분 → 30초 (30배 개선!)
+
+---
+
 ## 📋 전체 진행 체크리스트
 
 ### Prerequisites (사전 준비)
